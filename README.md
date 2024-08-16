@@ -25,9 +25,9 @@ There are several bugs that we are aware of, but for one reason or another we we
 
 Modpack developers are not responsible for bans due to the use of banned mods, if you are not playing on MineKeK. If you find a bug, then write about it to the owner of the modpack:
 
-Discord @durka_top
+Discord @durka_top or @arteminmine
 
-Telegram @durka_top
+Telegram @durka_top or @k3ymm
 
 ## RU
 ## О модпаке
