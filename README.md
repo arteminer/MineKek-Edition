@@ -1,6 +1,6 @@
 <style>
   .minecraft_menu{
-    align_items: center;
+    transform: translateX(30px);
   }
 </style>
 
