@@ -19,7 +19,15 @@ The modpack developers also advise to put additional mods that for one reason or
 There are several bugs that we are aware of, but for one reason or another we were not able to remove in the latest version of the modpack
 
 - If you are using shaders, you may not see the sky correctly. To solve this problem, we recommend removing the Better Sky resourcepack
-- The line under the hotbar will be fixed soon![а](https://cdn.modrinth.com/data/cached_images/9c1f8e582c1338b9d1021764f1c33f2fa52f9f2e.png)
+- The line under the hotbar will be fixed soon
+
+  ![а](https://cdn.modrinth.com/data/cached_images/9c1f8e582c1338b9d1021764f1c33f2fa52f9f2e.png)
+
+- First person hand animation problem
+
+Go to ETF config->Models->Player settings->Prevent first person hand animations:ON
+
+<img src="https://github.com/user-attachments/assets/50a80e5d-3261-4ba7-a221-6f7cea08e072" width="200" height="200">
 
 ## Other
 
