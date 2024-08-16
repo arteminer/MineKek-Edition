@@ -52,6 +52,7 @@ MineKeK Edition представляет собой модпак, с помощ�
 - Проблема с отображением руки от первого лица
 
 Перейдите по ETF config->Models->Player settings->Prevent first person hand animations:
+
 <img src="https://github.com/user-attachments/assets/50a80e5d-3261-4ba7-a221-6f7cea08e072" width="200" height="200">
 
 ## Прочее
