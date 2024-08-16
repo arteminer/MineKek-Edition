@@ -1,0 +1,22 @@
+{
+	furnace: {
+		flame: {
+			show_fuel_data: true,
+			show_timer: true
+		},
+		progress_arrow: {
+			show_fuel_data: false,
+			show_timer: false
+		}
+	},
+	brewingStand: {
+		gauge: {
+			show_fuel_data: true,
+			show_timer: true
+		},
+		progress_arrow: {
+			show_fuel_data: false,
+			show_timer: false
+		}
+	}
+}

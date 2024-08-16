@@ -1,0 +1,7 @@
+doChatShit = true
+maintainVelocityOnTurns = false
+eightWaySnapKey = true
+moveWhileChatting = true
+alwaysSmartCenter = false
+smartCenterLookAhead = 5
+smartCenterPrimedTurn = true
