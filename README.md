@@ -4,7 +4,7 @@
 
 MineKeK Edition is a modpack with which you can safely play on the server MineKeK, as it was personally evaluated by the server owner. Also with its help you can play on other servers, but check with the current list of allowed mods of the server on which you plan to play with modpack.
 
-<img src="https://github.com/user-attachments/assets/ba56faae-dec4-4d0b-b4ad-e894b8921824" width="200">
+<img src="https://github.com/user-attachments/assets/ba56faae-dec4-4d0b-b4ad-e894b8921824" width="500">
 
 ## Custom changes
 
