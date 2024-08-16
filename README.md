@@ -1,5 +1,5 @@
 # MineKeK Edition
-## EN
+## EN	🇺🇸
 ## About modpack
 
 MineKeK Edition is a modpack with which you can safely play on the server MineKeK, as it was personally evaluated by the server owner. Also with its help you can play on other servers, but check with the current list of allowed mods of the server on which you plan to play with modpack.
@@ -39,7 +39,7 @@ Discord @durka_top or @arteminmine
 
 Telegram @durka_top or @k3ymm
 
-## RU
+## RU🇷🇺
 ## О модпаке
 
 MineKeK Edition представляет собой модпак, с помощью которого можно спокойно играть на сервере MineKeK, так как он был лично оценен владельцем сервера. Также с его помощью можно играть и на остальных серверах, но сверяйтесь с актуальным списком разрешенных модов сервера, на котором планируете играть с модпаком. Модпак сильно выходит за рамки обычного Майнкрафта и добавляет большое количество новых фишек и приколов
