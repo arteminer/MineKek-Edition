@@ -1,0 +1,5 @@
+{
+  "onlyCompactConsecutiveMessages": true,
+  "ignoreCommonSeparators": true,
+  "maximumOccurrences": 100
+}

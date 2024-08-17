@@ -1,0 +1,11 @@
+{
+	minimumPixelSize: 1,
+	maximumPixelSize: 2,
+	velocityMultiplier: 1.0,
+	slipperiness: 1.0,
+	gravity: 1,
+	countMultiplier: 2,
+	maximumObjects: 128,
+	maximumTicks: 100,
+	updateInterval: 5
+}

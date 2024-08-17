@@ -1,0 +1,16 @@
+{
+	"username": "64e06169-735e-4cbb-af8f-b16c2c010116",
+	"gender": 1,
+	"bust_size": 0.6,
+	"hurt_sounds": true,
+	"breasts_xOffset": 0.0,
+	"breasts_yOffset": 0.0,
+	"breasts_zOffset": 0.0,
+	"breasts_uniboob": true,
+	"breasts_cleavage": 0.0,
+	"breast_physics": true,
+	"armor_physics_override": false,
+	"show_in_armor": true,
+	"bounce_multiplier": 0.333,
+	"floppy_multiplier": 0.75
+}

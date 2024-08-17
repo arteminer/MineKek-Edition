@@ -1,0 +1,14 @@
+{
+  "options": {
+    "onlyKeybind": false,
+    "musicStyle": "Toast",
+    "jukeboxStyle": "Toast",
+    "fallbackToast": true,
+    "silenceWoosh": true,
+    "toastScale": 1.0,
+    "simpleToast": true,
+    "toastTime": 5,
+    "hotbarTime": 3,
+    "narrate": true
+  }
+}

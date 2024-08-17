@@ -1,0 +1,24 @@
+{
+  "mod_enabled": true,
+  "debug_log_enabled": false,
+  "rendering_config": {
+    "right_hand": {
+      "offsetZ": 0.0,
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    "left_hand": {
+      "offsetZ": 0.0,
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    }
+  }
+}

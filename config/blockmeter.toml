@@ -1,0 +1,10 @@
+minimalLabelSize = false
+deleteBoxesOnDisable = true
+sendBoxes = true
+showBoxesWhenDisabled = false
+backgroundForLabels = true
+reach = 50
+incrementColor = true
+innerDiagonal = false
+showOtherUsersBoxes = false
+colorIndex = 0

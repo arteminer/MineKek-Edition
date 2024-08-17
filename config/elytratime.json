@@ -1,0 +1,6 @@
+{
+  "tooltipEnabled": true,
+  "tooltipFormat": "[TIME] осталось ([%]%)",
+  "timeFormat": "[M]m [S]с",
+  "timeReportFormat": "Осталось прочности на: [TIME] ([%]%)"
+}

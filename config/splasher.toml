@@ -1,0 +1,28 @@
+# Whether to show splash texts or not.
+splashTextsEnabled = false
+# Whether to enable special splash texts on festivals or not.
+festivalsEnabled = true
+# Whether to localize the splash texts according to the client language or not.
+followsClientLanguage = false
+# Whether to print the verbose debug info or not.
+debugInfoEnabled = false
+
+[texts]
+	# Whether to randomly tint and style the splash texts on reload or not.
+	colorful = false
+	# Whether to flip the splash texts to the left not.
+	lefty = false
+	# Controls the rate and chance of splash texts to reload.
+	# Acceptable values:
+	# - NEVER: never reloads.
+	# - ON_RELOAD: reloads on title screen reinitialization.
+	# - ON_CLICK: reloads on click on the text.
+	# - ON_RELOAD_AND_CLICK: reloads on both title screen reinitialization and click on the text.
+	randomRate = "ON_RELOAD_AND_CLICK"
+	# Controls the source of splash texts.
+	# Acceptable values:
+	# - VANILLA: only use the builtin vanilla splash texts.
+	# - CUSTOM: only use the custom splash texts under the config directory.
+	# - VANILLA_AND_CUSTOM: use both the builtin vanilla and custom splash texts.
+	# - NONE: no splash texts available.
+	source = "CUSTOM"

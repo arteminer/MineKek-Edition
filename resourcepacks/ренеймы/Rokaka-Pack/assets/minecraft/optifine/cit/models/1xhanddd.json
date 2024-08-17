@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./skimitar"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-112, -135, -86],
+			"translation": [-4, 4.75, 4.25],
+			"scale": [0.85, 0.85, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 139, -86],
+			"translation": [-3.75, 4.5, 4.5],
+			"scale": [0.85, 0.85, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -10, 110],
+			"translation": [-3.37, 5.5, 3.63],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [179, 10, 78],
+			"translation": [-3.62, 5, 3.88],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [90, 0, 130],
+			"translation": [-0.75, -4.25, -7.75]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0]
+		}
+	}
+}
